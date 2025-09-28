@@ -1,10 +1,10 @@
 {
   "yudou66": {
     "start_url": "https://www.yudou123.top/",
-    "up_date": "2025-09-26",
+    "up_date": "2025-09-27",
     "selector": "a[rel='bookmark']",
     "pattern": "https?://yy.yudou66.top/[^<>\\r\\n]+",
-    "password": "0055",
+    "password": "5566",
     "yt_idx": 0,
     "script": "multiDecrypt(arguments[0]);"
   },
@@ -13,7 +13,7 @@
     "up_date": "2025-09-27",
     "selector": "a[rel='bookmark']",
     "pattern": "https?://ylks.tt2000.sbs/[^<>\\r\\n]+",
-    "password": "3355",
+    "password": "0022",
     "yt_idx": 0,
     "script": "multiDecrypt(arguments[0]);"
   },
