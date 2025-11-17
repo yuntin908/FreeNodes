@@ -46,7 +46,7 @@
   },
   "nodev2ray": {
     "start_url": "https://nodev2ray.com/free-node/",
-    "up_date": "2025-11-16",
+    "up_date": "2025-11-17",
     "selector": "a[class='list-image-box']",
     "pattern": "https?://node.nodev2ray.com/uploads/[^<>\\r\\n]+"
   },
@@ -64,7 +64,7 @@
   },
   "wenode": {
     "start_url": "https://wenode.cc/freenode/",
-    "up_date": "2025-11-16",
+    "up_date": "2025-11-17",
     "selector": "a[class='post_def_left']",
     "pattern": "https?://oneclash.githubrowcontent.com/[^<>\\r\\n]+"
   }
